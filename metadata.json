@@ -1,0 +1,6 @@
+{
+  "name": "Waraqaa Gulaalaa",
+  "description": "Gulaalaa waraqaa aadaa fi chaappaa, bakka jijjiiruu, fi PDF qopheessuu - Document seal/stamp relocator, image editor, and PDF exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

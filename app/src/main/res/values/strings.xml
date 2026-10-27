@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Waraqaa Gulaalaa</string>
+    <string name="app_subtitle">Gulaalaa Waraqaa Aadaa &amp; Chaappaa</string>
+    <string name="upload_doc">Waraqaa Ol-fe\'i</string>
+    <string name="sample_doc">Waraqaa Fakkeenyaa</string>
+    <string name="step_select">1. Chaappaa Filadhu</string>
+    <string name="step_move">2. Bakka Haaraa Kaayi</string>
+    <string name="apply_changes">Waraqaa Hojiirra Olchi</string>
+    <string name="download_pdf">PDF Download Godhadhu</string>
+    <string name="status_ready">Haala jiru: Waraqaa filadhaa ykn ol-fe\'aa</string>
+    <string name="status_selected">Chaappaan filatameera. Bakka haaraa filadhu.</string>
+    <string name="status_placed">Bakki haaraan filatameera. Hojiirra olchi tuqi.</string>
+    <string name="status_saved">Waraqaan milkiin sirraa\'eera!</string>
+    <string name="size_width">Bal\'ina (W)</string>
+    <string name="size_height">Dheerina (H)</string>
+    <string name="reset">Deebisi</string>
+    <string name="history">Galmee Qophaa\'an</string>
+</resources>
